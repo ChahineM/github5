@@ -1,3 +1,3 @@
 # github5
-LOCAL
+REMOTE
 testtt
